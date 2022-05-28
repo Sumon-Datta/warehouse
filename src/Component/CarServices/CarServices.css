@@ -1,0 +1,33 @@
+.car_service_area{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+}
+
+.car_service_top_heading h1{
+    font-size: 30px;
+    font-weight: 700;
+    color: #333;
+    text-align: center;
+}
+
+.car_service_top_heading p{
+    color: #718096;
+    font-size: 17px;
+    text-align: center;
+    margin: 0px 0px 20px 0px;
+}
+
+.car_service_button{
+  display: flex;
+  justify-content: center;
+}
+.service_button{
+    height: 30px;
+    width: 140px;
+    background: #fa9327;
+    border: none;
+    color: #333;
+    font-size: 15px;
+    font-weight: 600;
+    margin: 0px 0px 20px 0px;
+}

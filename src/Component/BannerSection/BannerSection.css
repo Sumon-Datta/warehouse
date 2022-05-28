@@ -1,0 +1,42 @@
+.banner_area{
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+}
+
+.banner_info{
+    padding: 260px 0px 0px 30px;
+}
+
+
+.banner img{
+    width: 100%;
+}
+
+.banner_info_heading{
+    font-weight: 700;
+    font-size: 40px;
+}
+.banner_info_para{
+    font-size: 17px;
+    color: #718096;
+}
+
+
+
+@media (max-width: 1199px){
+  
+    .banner_info {
+        padding: 145px 0px 0px 30px;
+    }
+}
+
+@media (max-width: 992px){
+   
+}
+
+@media (max-width: 768px){
+   
+}
+@media (max-width:578px){
+   
+}

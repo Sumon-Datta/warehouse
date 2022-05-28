@@ -1,0 +1,23 @@
+.blogs_area{
+    margin: 0px 100px 0px 100px;
+}
+.blog{
+    margin: 40px 0px 0px 0px;
+}
+.blog_heading{
+    font-size: 17px;
+    font-weight: 700;
+}
+
+.question{
+    color: rgb(250, 147, 39);
+
+}
+
+.blogs_para{
+    font-size: 16px;
+}
+
+.answer{
+    color: rgb(250, 147, 39);
+}

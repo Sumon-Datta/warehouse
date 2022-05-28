@@ -1,0 +1,12 @@
+.not_found{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.not_found img{
+    margin: 0px 0px 235px 0px;
+    width: 550px;
+}

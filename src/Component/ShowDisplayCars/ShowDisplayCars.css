@@ -1,0 +1,58 @@
+.show_display_area {
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+  margin: 0px 28px 40px 20px;
+  height: 630px;
+  position: relative;
+}
+
+.show_img img {
+  width: 100%;
+}
+
+.displayCars {
+  text-align: left;
+  padding: 5px 8px;
+}
+
+p {
+  margin: 0px;
+}
+
+.displayCars .name {
+  font-size: 19px;
+  color: #333;
+}
+.displayCars .description {
+  font-size: 16px;
+  color: #718096;
+}
+
+.displayCars .price {
+  font-size: 18px;
+  font-weight: 600;
+  color: #fa9327;
+}
+.displayCars .quantity {
+  font-size: 15px;
+  font-weight: 500;
+}
+
+.displayCars .supplier {
+  font-size: 16px;
+  font-weight: 500;
+  color: #333;
+}
+
+.display_button {
+  position: absolute;
+  bottom: 18px;
+  left: 144px;
+  height: 30px;
+  width: 123px;
+  background: #fa9327;
+  border: none;
+  color: #333;
+  font-size: 15px;
+  font-weight: 600;
+  border-radius: 5px;
+}

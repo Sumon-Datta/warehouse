@@ -1,0 +1,56 @@
+[
+    {   "id" : 1,
+        "name" : "Jaguar",
+        "description":"The earliest version of the Jaguar logo was introduced in 1935, but the current “leaping jaguar” logo was unveiled years later in 1945. A large white spotted feline, Jaguar has been a traditional symbol of speed, strength and power.",
+        "price" : "50,00000",
+        "quantity" : 20,
+        "supplier_name" : "Korim ullah",
+        "images" : "https://image.shutterstock.com/image-photo/doha-qatar-december-13-2019-600w-1717685503.jpg"
+    },
+    {   
+        "id" : 2,
+        "name" : "Audi",
+        "description":"The Audi symbol is four ceiling rings that reflect the four manufacturers of Auto Union. This Audi emblem signs the association of the brand Audi with others: Horch, DKW, Wanderer: the initial ring from at the left side represents Audi, the next represents DKW, the third is Horch, then the fourth ring is Wanderer.",
+        "price" : "50,00000",
+        "quantity" : 0,
+        "supplier_name" : "Al-Amin jaman",
+        "images" : "https://image.shutterstock.com/image-photo/yerevan-armenia-25-april-2019-600w-1381226573.jpg"
+    },
+    {
+        "id" : 3,
+        "name" : "Honda",
+        "description":"The Honda logo is a large “H” appeared as the brand’s badge. The “H” is the first letter in the name of the Honda Motor Company founder Soichiro Honda.",
+        "price" : "50,00000",
+        "quantity" : 0,
+        "supplier_name" : "Morshad Alom",
+        "images" : "https://image.shutterstock.com/image-photo/belgrade-serbia-march-23-2018-600w-1055062727.jpg"
+    },
+    {   
+        "id" : 4,
+        "name" : "Ferrari",
+        "description":"Ferrari’s symbol can be traced to the Italian fighter ace Francesco Baracca who painted the black prancing horse onto the fuselage of his plane. He recorded 34 kills and was killed in 1918, becoming a national hero.",
+        "price" : "50,00000",
+        "quantity" : 0,
+        "supplier_name" : "Mohsin ullah",
+        "images" : "https://image.shutterstock.com/image-photo/belgrade-serbia-march-23-2017-600w-609747047.jp"
+    },
+    {   
+        "id" : 5,
+        "name" : "Tesla",
+        "description":"It has been a long-standing theory that Tesla's logo is not just a fancy 'T', but that it actually represents the cross-section of an electric motor first designed by the company's namesake, physicist, and inventor Nikola Tesla.",
+        "price" : "50,00000",
+        "quantity" : 0,
+        "supplier_name" : "Sheik Fajid",
+        "images" : "https://image.shutterstock.com/image-photo/poznan-poland-march-28-2019-600w-1365943073.jpg"
+    },
+    {   
+        "id" : 6,
+        "name" : "BMW",
+        "description":"For only the fifth time since its introduction in 1917, BMW is redesigning its logo, the famous roundel. For a long time, the blue and white are often thought to be a spinning propeller, to honor BMW's aircraft-engine beginnings",
+        "price" : "50,00000",
+        "quantity" : 0,
+        "supplier_name" : "Fardullah khan",
+        "images" : "https://image.shutterstock.com/image-photo/poznan-poland-march-28-2019-600w-1373690201.jpg"
+    }
+
+]

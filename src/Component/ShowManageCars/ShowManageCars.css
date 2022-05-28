@@ -1,0 +1,61 @@
+.show_manage_area{
+   display: grid;
+    grid-template-columns: 3fr 4fr 0fr 1fr;
+    margin: 0px 40px 0px 40px;
+}
+
+.manage_detail img{
+    width: 420px;
+}
+.manage_area{
+
+}
+
+.manage_name{
+    font-size: 23px;
+    font-weight: 700;
+    color: #333;
+}
+
+.manage_description{
+    font-size: 17px;
+    color: #718096;
+}
+.manage_price{
+    font-size: 17px;
+    font-weight: 600;
+    color: rgb(250, 147, 39);
+}
+.manage_quantity{
+    font-size: 17px;
+    font-weight: 600;
+   
+}
+
+.manage_supplier{
+    font-size: 17px;
+    font-weight: 600;
+}
+.manage_delete button{
+    height: 30px;
+    width: 120px;
+    background: #fa9327;
+    border: none;
+    color: #333;
+    font-size: 15px;
+    font-weight: 600;
+    margin: 95px 20px 20px 0px;
+    border-radius: 6px;
+}
+
+.manage_update button{
+    height: 30px;
+    width: 120px;
+    background: #fa9327;
+    border: none;
+    color: #333;
+    font-size: 15px;
+    font-weight: 600;
+    margin: 95px 0px 20px 0px;
+    border-radius: 6px;
+}
